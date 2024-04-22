@@ -25,6 +25,8 @@ public class Register_Login {
        System.out.println("-Fill out the form-");
        System.out.println(" ");
        
+       
+       
        String username;
        String name;
        String surname;
